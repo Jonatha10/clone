@@ -16,5 +16,5 @@
 
  - [X]   Finalização da pagina para monitores de computador
  - [ ]   Implementar responsividade na pagina para permitir visualização correta em dispositivos mobile
- - [ ]   Adicionar outras paginas 
+ - [ ]   Adicionar outras paginas do site
 
